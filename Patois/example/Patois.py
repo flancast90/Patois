@@ -1,4 +1,4 @@
-# ParPy: A python natural language
+# Patois: A python natural language
 # parser based on the one used
 # by Zork, for use in Python games
 
